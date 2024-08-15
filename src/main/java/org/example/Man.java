@@ -13,6 +13,8 @@ public class Man {
         fruits.add(new String("grapsh"));
         Set<String> sortedFruites = fruits.stream().sorted().collect(Collectors.toSet());
         System.out.println(sortedFruites);
+        System.out.println("Khalid1");
+        System.out.println("khalid hussain");
 
     }
 }
