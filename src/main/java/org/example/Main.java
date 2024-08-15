@@ -6,6 +6,7 @@ public class Main {
         System.out.println("Micro world");
         System.out.println("2nd Statement");
         System.out.println("3nd Statement");
-
+        System.out.println("4th Statement");
+        System.out.println("5th Statement");
     }
 }
