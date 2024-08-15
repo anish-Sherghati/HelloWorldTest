@@ -4,3 +4,5 @@ Starting new Nello Worl dProject work.
 Kalid added done
 
 Anish3
+
+anish main ruleset
