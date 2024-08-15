@@ -10,5 +10,8 @@ public class Main {
         System.out.println("5th Statement");
         System.out.println("6th Statement");
         System.out.println("7th Statement");
+        System.out.println("##########");
+        System.out.println("############");
+
     }
 }
