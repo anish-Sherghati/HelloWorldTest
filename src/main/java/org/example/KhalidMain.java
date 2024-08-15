@@ -1,7 +1,7 @@
 package org.example;
 
-public class Demo {
+public class KhalidMain {
     public static void main(String[] args) {
-        System.out.println("Statement1");
+        System.out.println("Khalid Statement1");
     }
 }
